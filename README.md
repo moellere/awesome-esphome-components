@@ -75,6 +75,10 @@ Please make a PR!
 
 * [Roomba Bridge](https://github.com/solarkennedy/roomba-bridge-esphome): Control your Roomba using ESPHome without the internet or the app.
 
+## Actuators
+
+* [TMC2208](https://github.com/slimcdk/esphome-custom-components/blob/master/esphome/components/tmc2208/README.md) & [TMC2209](https://github.com/slimcdk/esphome-custom-components/blob/master/esphome/components/tmc2209/README.md): Component for Trinamic stepper motor drivers
+
 ## Misc Appliances
 
 * [Philips-Smart-Coffee](https://github.com/TillFleisch/ESPHome-Philips-Smart-Coffee): Control your Philips Series 2200/3200 Coffee Machines.
